@@ -1,0 +1,11 @@
+{
+  "name": "passcode-input",
+  "version": "1.0.0",
+  "description": "passcode auth model",
+  "main": "passcodeInput.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "its.seraj",
+  "license": "ISC"
+}
